@@ -50,14 +50,14 @@ client/lib/
 │       ├── logout_event.dart
 │       └── logout_state.dart
 ├── repositories/
-│   └── auth_repository.dart    # API communication layer
+│   └── auth_repository.dart    # Repositori API
 ├── shared/
-│   └── themes.dart             # App theme & styling
+│   └── themes.dart             # Tema & styling aplikasi
 ├── ui/
 │   └── pages/
-│       ├── login_page.dart     # Login screen
-│       └── home_page.dart      # Home screen
-└── main.dart                   # App entry point
+│       ├── login_page.dart     # Halaman login
+│       └── home_page.dart      # Halaman home
+└── main.dart                   # Main aplikasi
 ```
 
 ---
@@ -263,20 +263,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-Developed with ❤️ using Flutter
+Developed Oleh IT Bangunarta Dengan ❤️ Menggunakan Flutter
 
 ---
-
-## 📞 Support
-
-Jika Anda mengalami masalah atau memiliki pertanyaan, silakan:
-
-- 📧 Buat issue di repository
-- 📖 Baca dokumentasi lengkap di `IMPLEMENTATION_DOCS.md`
-- 💬 Hubungi tim developer
-
----
-
-<p align="center">
-  <strong>Happy Coding! 🚀</strong>
-</p>
