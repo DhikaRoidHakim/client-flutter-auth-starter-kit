@@ -5,7 +5,7 @@
 <h1 align="center">Auth Starter Kit - Mobile Client</h1>
 
 <p align="center">
-  <strong>Flutter mobile application with modern authentication system</strong>
+  <strong>Aplikasi Mobile Flutter Autentikasi Starter Kit</strong>
 </p>
 
 <p align="center">
